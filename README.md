@@ -1,0 +1,1 @@
+This project aims to help with setting up a foundation for web development by making a project in html. It should make me more familiar with the language and help me progress further in the process of creating websites. Once I'm finished with this project, I should be comfortable creating the html structure of a website and I should be ready to start learning CSS.
